@@ -9,8 +9,8 @@ https://www.instructables.com/Arduino-MIDI-Drums/
 # Images
 
 <p align ="center">
-  <img src="https://github.com/yashas-hm/Arduino-MIDI-Drums/blob/master/images/3.jpg"/><br>
-  <img src="https://github.com/yashas-hm/Arduino-MIDI-Drums/blob/master/images/2.png" width=480/>
-  <img src="https://github.com/yashas-hm/Arduino-MIDI-Drums/blob/master/images/4.png"/><br>
-  <img src="https://github.com/yashas-hm/Arduino-MIDI-Drums/blob/master/images/1.jpg"/><br>
+  <img src="https://github.com/shivali1203/Arduino-MIDI-Drums/blob/master/images/3.jpg"/><br>
+  <img src="https://github.com/shivali1203/Arduino-MIDI-Drums/blob/master/images/2.png" width=480/>
+  <img src="https://github.com/shivali1203/Arduino-MIDI-Drums/blob/master/images/4.png"/><br>
+  <img src="https://github.com/shivali1203/Arduino-MIDI-Drums/blob/master/images/1.jpg"/><br>
 </p>
